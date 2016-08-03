@@ -1,0 +1,5 @@
+appname = ping @patrickpierson
+BOT_ICON = :meetup:
+BOT_USERNAME = meetup-bot
+MEETUP_GROUP_ID = 18251150,19094966,19805711,1463375,9272052
+MEETUP_API_KEY = ping @patrickpierson
